@@ -152,3 +152,9 @@
 ::-moz-selection{color:#fff;text-shadow:none;background:#222}
 ::selection{color:#fff;text-shadow:none;background:#222}
 img::selection{color:#fff;background:0 0}img::-moz-selection{color:#fff;background:0 0}
+#logo{
+ position: relative;
+ top -3;
+ ;
+}
+}
