@@ -159,5 +159,6 @@ img::selection{color:#fff;background:0 0}img::-moz-selection{color:#fff;backgrou
 .img-responsive
 {
  height: 300px;
+ width:650px;
 }
 }
