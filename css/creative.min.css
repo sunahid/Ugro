@@ -163,7 +163,6 @@ img::selection{color:#fff;background:0 0}img::-moz-selection{color:#fff;backgrou
  width:650px;
 }
 img{
-    display: inline:block;
-    margin: 0 auto;
+
 
 }
