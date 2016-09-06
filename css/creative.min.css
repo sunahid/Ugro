@@ -165,4 +165,5 @@ img::selection{color:#fff;background:0 0}img::-moz-selection{color:#fff;backgrou
 img{
     display: block;
     margin: 0 auto;
+    float:right;
 }
