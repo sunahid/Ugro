@@ -71,8 +71,8 @@
  .navbar-default.affix .nav>li>a:focus:hover,.navbar-default.affix .nav>li>a:hover
  {color:#F05F40}}
  header
-/* {min-height:auto;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;background-position:center;background-image:url(../img/header.jpg);color:#fff}*/
- {min-height:auto;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;background-position:center;background-image:url(https://github.com/sunahid/ugro/blob/gh-pages/img/bg6.jpg?raw=true);color:#fff}
+{min-height:auto;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;background-position:center;background-image:url(../img/header.jpg);color:#fff}
+
  header .header-content
  {padding:100px 15px}
  header .header-content .header-content-inner h1
