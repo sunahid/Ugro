@@ -156,3 +156,8 @@ img::selection{color:#fff;background:0 0}img::-moz-selection{color:#fff;backgrou
  position: relative;
  top -40;
 }
+.img-responsive
+{
+ height: 300px;
+}
+}
